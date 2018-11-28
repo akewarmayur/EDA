@@ -1,2 +1,4 @@
-# All about dplyr package 
-The jupyter notebook file will help you understands the dplyr package. 
+# Exploratory Data Analysis (EDA)
+## All about dplyr
+The jupyter notebook files will help you understands the Exploratory Data Analysis for sample data .
+
